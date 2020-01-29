@@ -1,4 +1,4 @@
-package com.kotlin.multimodulespringboot.utils
+package com.kotlin.multimodulespringboot.example
 
 import com.kotlin.multimodulespringboot.addTwoPlusPlus
 
