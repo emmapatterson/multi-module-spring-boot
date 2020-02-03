@@ -1,7 +1,7 @@
 package com.kotlin.multimodulespringboot.example
 
-import com.kotlin.multimodulespringboot.addTwoPlusPlus
+import com.kotlin.multimodulespringboot.addTwoPlusTwo
 
 fun main() {
-    print(addTwoPlusPlus())
+    print(addTwoPlusTwo())
 }
